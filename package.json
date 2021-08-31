@@ -1,0 +1,8 @@
+{
+  "name": "learning-mediasoup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OpeAbidemi/Lerning-mediasoup.git",
+  "author": "Ope Abidemi Harry <opeabidemi@gmail.com>",
+  "license": "MIT"
+}
